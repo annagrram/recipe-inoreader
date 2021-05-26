@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "The content reader for power users who want to save time.",
   "main": "index.js",
-  "author": "Anna Arad <anna@shards.me>",
+  "author": "Anna Arad <annagram@shards.me>",
   "license": "MIT",
   "repository": "https://github.com/annagrram/recipe-inoreader",
   "config": {
